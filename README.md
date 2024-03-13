@@ -1,4 +1,5 @@
 # soat-graphics
 Bu dastur graphics.h kutubxonasi bilan ishlaydi.
 ![alt text](image.png)
-<video controls src="Recording_13.03.2024_16_47_00.mp4" title="Title"></video>
+https://github.com/farruxeshmuminov/soat-graphics/assets/158489233/c0fa2ef4-61ce-4851-bbcd-11a77f3bac21
+
